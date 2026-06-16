@@ -59,7 +59,7 @@ Placements
 
 ## ⭐ Progress
 
-* [ ] Introduction to Computers
+* [✔] Introduction to Computers
 * [ ] Types of Computers
 * [ ] Computer Organization
 * [ ] Input Devices
