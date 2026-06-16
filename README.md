@@ -60,15 +60,15 @@ Placements
 ## ⭐ Progress
 
 * ✔ Introduction to Computers
-* [ ] Types of Computers
-* [ ] Computer Organization
-* [ ] Input Devices
-* [ ] Output Devices
-* [ ] Memory Concepts
-* [ ] Primary Memory
-* [ ] Secondary Storage
-* [ ] Software Concepts
-* [ ] Operating Systems
+* ✔ Types of Computers
+* ✔ Computer Organization
+* ✔ Input Devices
+* ✔ Output Devices
+* ✔ Memory Concepts
+* ✔ Primary Memory
+* ✔ Secondary Storage
+* ✔ Software Concepts
+* ✔ Operating Systems
 * [ ] Number Systems
 * [ ] Computer Languages
 * [ ] Computer Networks
