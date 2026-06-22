@@ -69,11 +69,11 @@ Placements
 * ✔ Secondary Storage
 * ✔ Software Concepts
 * ✔ Operating Systems
-* [ ] Number Systems
-* [ ] Computer Languages
-* [ ] Computer Networks
-* [ ] Internet Fundamentals
-* [ ] Cyber Security Basics
-* [ ] Emerging Technologies
+* ✔ Number Systems
+* ✔ Computer Languages
+* ✔ Computer Networks
+* ✔ Internet Fundamentals
+* ✔ Cyber Security Basics
+* ✔ Emerging Technologies
 
 ### 🌱 From Beginner to Bioinformatics Professional
